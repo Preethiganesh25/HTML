@@ -1,0 +1,27 @@
+{background-color: black;
+}
+h1{
+	text-align: center;
+	color:salmon;
+	font-style:italic ;
+}
+p{
+	color: blueviolet;
+	font-size: 20px;
+	font-family: fantasy;
+	line-height: 2;
+	letter-spacing: 0.2em;
+	word-spacing: 1em;
+}
+.c1{
+	padding: 10px;
+}
+.container{
+	width: 80%;
+	margin: auto;
+	margin-top: 100px;
+}
+.c3{
+	border:1px red solid;
+	border-radius: 15px;
+	 }
